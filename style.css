@@ -404,7 +404,7 @@ h1 em {
   border-radius:18px;
 }
 [data-theme="forest"] .board-frame::after {
-  content:'🌿🌱🌿🍃🌿🌱🌿🍃🌿🌱🌿🍃🌿🌱🌿🍃';
+  content:'';
   position:absolute;
   inset:0;
   font-size:9px;
@@ -448,7 +448,7 @@ h1 em {
   z-index:2;
 }
 [data-theme="mountain"] .board-frame::after {
-  content:'⛰🏔⛰🗻⛰🏔⛰🗻⛰🏔⛰🗻⛰🏔⛰🗻';
+  content:'';
   position:absolute;
   inset:0;
   font-size:9px;
@@ -496,7 +496,7 @@ h1 em {
   to   { opacity:1; }
 }
 [data-theme="water"] .board-frame::after {
-  content:'🌊💧🌊🫧🌊💧🌊🫧🌊💧🌊🫧🌊💧🌊🫧';
+  content:'';
   position:absolute;
   inset:0;
   font-size:9px;
@@ -544,7 +544,7 @@ h1 em {
   to   { opacity:1; box-shadow:inset 0 0 20px rgba(255,60,0,0.15); }
 }
 [data-theme="fire"] .board-frame::after {
-  content:'🔥🌋🔥💥🔥🌋🔥💥🔥🌋🔥💥🔥🌋🔥💥';
+  content:'';
   position:absolute;
   inset:0;
   font-size:9px;
